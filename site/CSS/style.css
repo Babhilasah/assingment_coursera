@@ -1,0 +1,20 @@
+*{
+
+}
+body{
+	font-family: "Lucida Console", courier, monospace;
+    font-size: 125%;
+}
+h1{
+	font-size: 185%;
+}
+h2{
+	font-size: 175%;
+}
+.block > div {
+	border: 1px solid black;
+	background: gray;
+	margin:15px 15px;
+	position: relative;
+}
+
